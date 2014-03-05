@@ -1,4 +1,4 @@
 MultiGen
 ========
 
-Multiple languag code generator
+Multiple language code generator
